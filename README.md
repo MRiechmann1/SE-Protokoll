@@ -16,3 +16,9 @@
 | 02.11.17 | Vorbereiten der Präsentation             | 1h      |
 | 03.11.17 | Gruppen-Meeting                          | 1,5h    |
 
+ ## Woche 3 
+
+| Datum    | Aufgabe                                  | Aufwand |
+| -------- | ---------------------------------------- | ------- |
+| 06.11.17 | Vorbereiten einer Test "Navigation Drawer Application" | 2h      |
+
