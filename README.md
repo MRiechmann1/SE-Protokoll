@@ -2,10 +2,10 @@
 
  ## Woche 1
 
- | Datum    | Aufgabe                            | Aufwand |
+| Datum    | Aufgabe                            | Aufwand |
 | -------- | ---------------------------------- | ------- |
 | 21.10.17 | Zusammenfassender Vorlesungsfolien | 2h      |
-| 27.10.17 | Gruppen-Meeting                    | 1,5     | 
+| 27.10.17 | Gruppen-Meeting                    | 1,5     |
 
 ## Woche 2 
 
@@ -21,4 +21,4 @@
 | Datum    | Aufgabe                                  | Aufwand |
 | -------- | ---------------------------------------- | ------- |
 | 06.11.17 | Vorbereiten einer Test "Navigation Drawer Application" | 2h      |
-
+| 08.11.17 | Erstellen des Grundgerüsts der App und LogIn Seite | 3h      |
