@@ -22,3 +22,11 @@
 | -------- | ---------------------------------------- | ------- |
 | 06.11.17 | Vorbereiten einer Test "Navigation Drawer Application" | 2h      |
 | 08.11.17 | Erstellen des Grundgerüsts der App und LogIn Seite | 3h      |
+| 09.11.17 | Registerseite                            | 1h      |
+| 10.11.17 | Gruppen-Meeting + Arbeiten an der Umsetzung der Mockups | 2,5h    |
+
+ ## Woche 4 
+
+| Datum    | Aufgabe                        | Aufwand |
+| -------- | ------------------------------ | ------- |
+| 14.11.17 | Veranstaltungs-Mockup anfangen | 1h      |
