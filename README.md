@@ -38,4 +38,5 @@
 | Datum    | Aufgabe                | Aufwand |
 | -------- | ---------------------- | ------- |
 | 20.11.17 | Veranstalltungs-Mockup | 1h      |
+| 23.11.17 | TODO-Liste             | 1h      |
 
