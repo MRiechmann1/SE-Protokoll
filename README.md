@@ -27,6 +27,15 @@
 
  ## Woche 4 
 
-| Datum    | Aufgabe                        | Aufwand |
-| -------- | ------------------------------ | ------- |
-| 14.11.17 | Veranstaltungs-Mockup anfangen | 1h      |
+| Datum    | Aufgabe                                  | Aufwand |
+| -------- | ---------------------------------------- | ------- |
+| 14.11.17 | Veranstaltungs-Mockup anfangen           | 1h      |
+| 16.11.17 | Veranstaltungs-Mockup neu anfangen       | 2,5h    |
+| 17.11.17 | Gruppen-Meeting + Arbeiten an den Veranstaltungen | 3h      |
+
+## Woche 5 
+
+| Datum    | Aufgabe                | Aufwand |
+| -------- | ---------------------- | ------- |
+| 20.11.17 | Veranstalltungs-Mockup | 1h      |
+
