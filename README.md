@@ -35,8 +35,16 @@
 
 ## Woche 5 
 
-| Datum    | Aufgabe                | Aufwand |
-| -------- | ---------------------- | ------- |
-| 20.11.17 | Veranstalltungs-Mockup | 1h      |
-| 23.11.17 | TODO-Liste             | 1h      |
+| Datum    | Aufgabe                      | Aufwand |
+| -------- | ---------------------------- | ------- |
+| 20.11.17 | Veranstalltungs-Mockup       | 1h      |
+| 23.11.17 | TODO-Liste                   | 1h      |
+| 24.11.17 | Gruppen-Meeting + Abstimmung | 3,5h    |
+
+ ## Woche 6
+
+| Datum    | Aufgabe                            | Aufwand |
+| -------- | ---------------------------------- | ------- |
+| 27.11.17 | Kommentarfunktion in Veranstaltung | 1,5h    |
+| 29.11.17 | Datenstrukturen anpassen           | 0,5h    |
 
