@@ -43,8 +43,15 @@
 
  ## Woche 6
 
-| Datum    | Aufgabe                            | Aufwand |
-| -------- | ---------------------------------- | ------- |
-| 27.11.17 | Kommentarfunktion in Veranstaltung | 1,5h    |
-| 29.11.17 | Datenstrukturen anpassen           | 0,5h    |
+| Datum    | Aufgabe                                  | Aufwand |
+| -------- | ---------------------------------------- | ------- |
+| 27.11.17 | Kommentarfunktion in Veranstaltung       | 1,5h    |
+| 29.11.17 | Datenstrukturen anpassen                 | 0,5h    |
+| 01.11.17 | Gruppen-Meeting + Kopf für Veranstaltung und Bewertung | 3,5h    |
+
+ ## Woche 7  
+
+| Datum    | Aufgabe                          | Aufwand |
+| -------- | -------------------------------- | ------- |
+| 03.12.17 | TabHost für Gästeliste erstellen | 2h      |
 
