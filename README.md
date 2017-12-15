@@ -51,7 +51,14 @@
 
  ## Woche 7  
 
-| Datum    | Aufgabe                          | Aufwand |
-| -------- | -------------------------------- | ------- |
-| 03.12.17 | TabHost für Gästeliste erstellen | 2h      |
+| Datum    | Aufgabe                                  | Aufwand |
+| -------- | ---------------------------------------- | ------- |
+| 03.12.17 | TabHost für Gästeliste erstellen         | 2h      |
+| 09.12.17 | Gruppen-Meeting + Abstimmungen und Layout Anpassungen | 3,5h    |
+
+ ## Woche 8 
+
+| Datum    | Aufgabe                                  | Aufwand |
+| -------- | ---------------------------------------- | ------- |
+| 12.12.17 | Erstellen der PieChart in Abstimmungen und Anpassen der Vorschau der Partys | 1,5h    |
 
