@@ -61,4 +61,24 @@
 | Datum    | Aufgabe                                  | Aufwand |
 | -------- | ---------------------------------------- | ------- |
 | 12.12.17 | Erstellen der PieChart in Abstimmungen und Anpassen der Vorschau der Partys | 1,5h    |
+| 15.12.17 | Gruppen-Meeting + Tests und Login  über API-Abfrage | 3,5h    |
+
+ ## Woche 9 
+
+| Datum    | Aufgabe                             | Aufwand |
+| -------- | ----------------------------------- | ------- |
+| 19.12.17 | Anmiationen für die Expandable-View | 2h      |
+| 20.12.17 | Bild vom Handy laden                | 1,5h    |
+
+  ## Woche 11
+
+| Datum    | Aufgabe                               | Aufwand |
+| -------- | ------------------------------------- | ------- |
+| 05.01.18 | Gruppen-Meeting + laden aller Parties | 3,5h    |
+
+ ## Woche 12
+
+| Datum    | Aufgabe                                  | Aufwand |
+| -------- | ---------------------------------------- | ------- |
+| 06.01.18 | Datum richtig anzeigen lassen und doppelte Darstellung der Fragment bei neu laden der View gefixt | 0,5h    |
 
