@@ -81,4 +81,5 @@
 | Datum    | Aufgabe                                  | Aufwand |
 | -------- | ---------------------------------------- | ------- |
 | 06.01.18 | Datum richtig anzeigen lassen und doppelte Darstellung der Fragment bei neu laden der View gefixt | 0,5h    |
+| 08.01.18 | Anzeigen lassen der Parties in OwnEvent und Home. Außerdem Layout für die Expandable View erstellt | 1,5h    |
 
