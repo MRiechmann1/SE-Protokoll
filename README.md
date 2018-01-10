@@ -5,7 +5,7 @@
 | Datum    | Aufgabe                            | Aufwand |
 | -------- | ---------------------------------- | ------- |
 | 21.10.17 | Zusammenfassender Vorlesungsfolien | 2h      |
-| 27.10.17 | Gruppen-Meeting                    | 1,5     |
+| 27.10.17 | Gruppen-Meeting                    | 1,5h    |
 
 ## Woche 2 
 
@@ -82,4 +82,6 @@
 | -------- | ---------------------------------------- | ------- |
 | 06.01.18 | Datum richtig anzeigen lassen und doppelte Darstellung der Fragment bei neu laden der View gefixt | 0,5h    |
 | 08.01.18 | Anzeigen lassen der Parties in OwnEvent und Home. Außerdem Layout für die Expandable View erstellt | 1,5h    |
+| 09.01.18 | Kleinere Layout Anpassungen, die Klassen an die Json Antworten der API angepasst und die Daten werden in die EventMainActivity geladen | 2,5h    |
+| 10.01.18 | Daten werden nun über einen Service in EventMainActivity geladen, um Network on Main Thread Exceptions zu vermeiden. Für die Wartezeit gibt es einen Ladebildschirm | 2h      |
 
