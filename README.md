@@ -84,5 +84,17 @@
 | 08.01.18 | Anzeigen lassen der Parties in OwnEvent und Home. Außerdem Layout für die Expandable View erstellt | 1,5h    |
 | 09.01.18 | Kleinere Layout Anpassungen, die Klassen an die Json Antworten der API angepasst und die Daten werden in die EventMainActivity geladen | 2,5h    |
 | 10.01.18 | Daten werden nun über einen Service in EventMainActivity geladen, um Network on Main Thread Exceptions zu vermeiden. Für die Wartezeit gibt es einen Ladebildschirm | 2h      |
-| 10.01.18 | Laden der Tasks und Todos in die ExpandbleListView | 3,4h    |
+| 11.01.18 | Laden der Tasks und Todos in die ExpandbleListView | 3,5h    |
+| 12.01.18 | Ladend der Daten in die in die ExpandbleListView | 3,5h    |
 
+ ## Woche 13
+
+| Datum    | Aufgabe                                  | Aufwand |
+| -------- | ---------------------------------------- | ------- |
+| 13.01.18 | Hinzufügen neuer Tasks und Erstellen neuer Partys möglich | 4h      |
+| 15.01.18 | Paryt lädt Daten über Service und besitzt einen Ladebildschirm.  Und Todo Update Funktion | 3h      |
+| 16.01.18 | Erstellen, Ändern und Löschen für Task und Todo fertig. Mehrfach laden wird jetzt auch verhindert. Außerdem können User eingeladen werden. | 5h      |
+| 17.01.18 | Gäste können Status ändern. Mehrfache Instantiierung von Receivern wird verhindert. Expandable Fragment haben jetzt eine schnelle Größenanpassung. Parties können gelöscht werden. | 5,5h    |
+| 18.01.18 | Profil bearbeiten, Rating laden und erstellen, mehrere kleinere Fixes | 4h      |
+
+​	
