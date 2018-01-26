@@ -96,5 +96,15 @@
 | 16.01.18 | Erstellen, Ändern und Löschen für Task und Todo fertig. Mehrfach laden wird jetzt auch verhindert. Außerdem können User eingeladen werden. | 5h      |
 | 17.01.18 | Gäste können Status ändern. Mehrfache Instantiierung von Receivern wird verhindert. Expandable Fragment haben jetzt eine schnelle Größenanpassung. Parties können gelöscht werden. | 5,5h    |
 | 18.01.18 | Profil bearbeiten, Rating laden und erstellen, mehrere kleinere Fixes | 4h      |
+| 19.01.18 | Setzen und Laden von Profilbild          | 4,5h    |
 
-​	
+ ## Woche 14
+
+| Datum    | Aufgabe                                  | Aufwand |
+| -------- | ---------------------------------------- | ------- |
+| 20.01.18 | Laden und setzen von Bilder des Users und der Party (auch Party-Preview). Löschen von seinem Account. | 2h      |
+| 22.01.18 | Abstimmung und Gallerie + Mehrere kleine Fixes | 10h     |
+| 24.01.18 | Präsentation bearbeiten + kleine Fixes und Kommentare | 1,5h    |
+| 25.01.18 | Kleine Fixes                             | 0,5     |
+| 26.01.18 | Kleine Fixes und Präsentation proben     | 2,5h    |
+
